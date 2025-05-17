@@ -1,9 +1,14 @@
 {
-    "BaseNetworkable": 800,
-    "EntityList": 16,
+    "BaseNetworkable": 5368721592,
+    "EntityList": 0,
+    "Health": 0,
+    "Position": 0,
+    "ViewMatrix": 0,
     "EntitySize": 8,
-    "Health": 500,
-    "Position": 76,
     "DisplayName": 108,
-    "ViewMatrix": 740
+    "HeldEntity": 2328,
+    "PlayerInventory": 1648,
+    "ItemList": 1792,
+    "ModelState": 1216,
+    "PlayerInput": 1264
 }
