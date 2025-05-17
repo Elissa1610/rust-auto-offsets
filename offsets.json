@@ -1,0 +1,9 @@
+{
+    "BaseNetworkable": 800,
+    "EntityList": 16,
+    "EntitySize": 8,
+    "Health": 500,
+    "Position": 76,
+    "DisplayName": 108,
+    "ViewMatrix": 740
+}
