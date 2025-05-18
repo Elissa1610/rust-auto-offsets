@@ -1,5 +1,7 @@
 {
-    "ESP": {},
-    "Inventory": {},
-    "Deployables": {}
+  "ESP": {},
+  "INVENTORY": {},
+  "DEPLOYABLES": {},
+  "COMBAT": {},
+  "MISC": {}
 }
